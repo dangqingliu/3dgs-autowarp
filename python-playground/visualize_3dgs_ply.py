@@ -132,3 +132,5 @@ if __name__ == "__main__":
         window_name=args.title,
         show_axes=not args.no_axes,
     )
+
+# python visualize_3dgs_ply.py test.ply
