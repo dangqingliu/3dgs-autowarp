@@ -1,0 +1,5 @@
+# 3DGS PLY 可视化依赖 (Python 3.11)
+numpy>=1.24.0,<3
+plyfile>=0.8.0
+open3d>=0.17.0,<0.20
+matplotlib>=3.7.0
