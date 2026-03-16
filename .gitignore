@@ -30,3 +30,4 @@ htmlcov/
 # Editors
 .vscode/
 .idea/
+python-playground/*.jpg
