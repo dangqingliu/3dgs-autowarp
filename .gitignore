@@ -32,3 +32,4 @@ htmlcov/
 .idea/
 python-playground/*.jpg
 python-playground/*.jpg
+python-playground/test.ply
